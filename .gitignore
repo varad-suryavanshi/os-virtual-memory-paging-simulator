@@ -1,0 +1,7 @@
+# .gitignore
+*.log
+*.out
+*.o
+*.exe
+*.swp
+*.tmp
